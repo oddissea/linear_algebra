@@ -1,2 +1,1 @@
-# linear
-Linear Algebra (dummie)
+# Linear Algebra (dummies)
